@@ -1,0 +1,9 @@
+target/classes/application.properties
+target/classes/com/intellifleet/PipelineTestMain.class
+target/maven-archiver/pom.properties
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+target/pipeline-test.jar
+target/pipeline-test.jar.original
