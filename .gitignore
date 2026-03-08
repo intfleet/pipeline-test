@@ -12,3 +12,5 @@ target/pipeline-test.jar.original
 .idea/jarRepositories.xml
 .idea/misc.xml
 .idea/vcs.xml
+deploy.sh
+run.sh
